@@ -1,0 +1,10 @@
+C:\Users\bb0h6992\source\repos\AbrirCSV\bin\Debug\AbrirCSV.exe.config
+C:\Users\bb0h6992\source\repos\AbrirCSV\bin\Debug\AbrirCSV.exe
+C:\Users\bb0h6992\source\repos\AbrirCSV\bin\Debug\AbrirCSV.pdb
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.csprojAssemblyReference.cache
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.Properties.Resources.resources
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.csproj.GenerateResource.cache
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.csproj.CoreCompileInputs.cache
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.exe
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.pdb
+C:\Users\bb0h6992\source\repos\AbrirCSV\obj\Debug\AbrirCSV.AbreCSV.resources
